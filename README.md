@@ -1,5 +1,5 @@
 # Democracy-2.0
-GovOS. Future of Government of Human Civilization.
+GovOS. Future Government of Human Civilization.
 
 
 Democracy 2.0: A Rational Governance System for the 21st Century
